@@ -1,0 +1,54 @@
+body
+{
+    color: white;
+    padding-left: 30px;
+    background-color: #5C2DE0;
+    font-family: candara;
+}
+#main a 
+{
+    color: white;
+    text-decoration: none;
+    padding-right: 50px;
+    float: right;
+    padding-top: 30px;
+}
+#logo 
+{
+    float: left;
+    color: white;
+    letter-spacing: 2px;
+}
+#top
+{
+    color: gold;
+    letter-spacing: 1px;
+    font-size: 80px;
+}
+#bottom
+{
+    font-size: 30px;
+    color: whitesmoke;
+}
+button
+{
+    color: white;
+    background-color: #5d2de000;
+    outline: none;
+    border: 3px solid white;
+    height: 40px;
+    width: 100px;
+}
+button:hover
+{
+    border: 6px solid white;
+    box-shadow: black;
+}
+#para
+{
+    background-color: white;
+    color: #212121;
+    height: 80px;
+    padding-right: 30px;
+    text-align: center;
+}
